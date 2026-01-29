@@ -16,9 +16,9 @@ This repository contains the core theoretical framework for the Unified Field Th
 - Time principles and dynamic topology
 
 ## Related Repositories
-- [Fundamental-Mathematics](https://github.com/username/Fundamental-Mathematics): Basic mathematical theories and implementations
-- [Advanced-Theoretical-Framework](https://github.com/username/Advanced-Theoretical-Framework): Advanced theoretical models and extensions
-- [Physical-Applications](https://github.com/username/Physical-Applications): Physical applications and experimental verifications
+- [Fundamental-Mathematics](https://github.com/dpsnet/Fundamental-Mathematics): Basic mathematical theories and implementations
+- [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework): Advanced theoretical models and extensions
+- [Physical-Applications](https://github.com/dpsnet/Physical-Applications): Physical applications and experimental verifications
 
 ## License
 MIT License
