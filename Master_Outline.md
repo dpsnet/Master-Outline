@@ -1,17 +1,20 @@
 # Master Outline: Fixed 4D Topology - Dynamic Spectral Dimension Multiple Torsion Fractal Clifford Algebra Unified Field Theory
 **Author:** Wang Bin  
 **Email:** wang.bin@foxmail.com  
-**Date:** January 10, 2026  
-**Version:** v6.6.0  
+**Date:** January 30, 2026  
+**Version:** v6.7.0  
 **Series:** Fixed 4D Topology - Dynamic Spectral Dimension Multiple Torsion Fractal Clifford Algebra Unified Field Theory  
 **Series Abbreviation:** Fractal Dynamic Spectral Dimension Field Unified Theory
 **Positioning:** Master outline of the series papers, expounding the core paradigm, structural system, and chapter logic
 
 ## Abstract
-This master outline systematically expounds the core paradigm, mathematical foundation, and physical applications of the unified field theory system based on fractal Clifford algebra. The theory takes "fixed 4D topological dimension + dynamic spectral dimension" as its core paradigm, constructing a complete theoretical chain from mathematical foundation (M category) to physical applications (P category) through fractal Clifford algebra. Through multiple torsion quantization scheme and dynamic spectral dimension flow, it successfully builds a self-consistent framework from micro particle physics to macro cosmology and energy applications, providing a unified theoretical perspective for solving frontier problems such as quantum gravity, fermion mass hierarchy, dark matter, black hole singularity, nuclear fusion, etc. Specifically including: realizing the compatible unification of string theory and fractal Clifford algebra, constructing fractal string theory under fixed 4D topology; realizing the compatible unification of loop quantum theory and fractal Clifford algebra, constructing fractal spin foam model; constructing fractal-torsion model of black holes, treating black holes as torsion-saturated fractal cores, solving the singularity problem and information paradox in traditional theories; developing spacetime hardening effect theory, deeply integrating fractal geometry, Clifford algebra and fluid mechanics, explaining the nonlinear properties of spacetime; establishing algebraic-topological-dynamic unified theory of time, revealing the triple origin of time's unidirectionality, proving that time is irreversible at both micro and macro scales; and based on time principle, providing a unified explanation for micro time reversal experiments, pointing out that the so-called time reversal is just an illusion of topological sequence mirror evolution, and there is no true time reversal, thus unifying the time properties of micro and macro; completing the mathematical proof of spectral dimension mapping from high-dimensional space to four-dimensional spacetime, establishing topological-spectral dimension bidirectional mapping, proving that spectral dimension flow is the projection from high-dimensional space to four-dimensional spacetime; establishing geometric derivation of mediator particle mass and force long-range nature, constructing a complete theoretical chain of "geometric torsion → mediator particle mass → force long-range nature", deriving electromagnetic force, electric field, magnetic field and Maxwell equations from geometric perspective; constructing geometric explanation of basic quantum mechanical phenomena, including geometric unified explanation of wave function collapse, quantum entanglement and quantum interference, eliminating the conceptual dilemma of traditional quantum mechanics, realizing self-consistent unification of quantum mechanics and relativity; finally, applying the theory to nuclear fusion field, constructing fractal-torsion nuclear fusion model, deriving modified nucleon potential and nuclear fusion reaction rate, providing a new theoretical framework for improving nuclear fusion efficiency. The theoretical system provides testable predictions from high-energy physics to cosmology and energy applications, offering new approaches for quantum gravity experimental verification and energy technology development.
+This master outline systematically expounds the core paradigm, mathematical foundation, and physical applications of the unified field theory system based on fractal Clifford algebra. The theory takes "fixed 4D topological dimension + dynamic spectral dimension" as its core paradigm, constructing a complete theoretical chain from mathematical foundation (M category) to physical applications (P category) through fractal Clifford algebra. Through multiple torsion quantization scheme and dynamic spectral dimension flow, it successfully builds a self-consistent framework from micro particle physics to macro cosmology and energy applications, providing a unified theoretical perspective for solving frontier problems such as quantum gravity, fermion mass hierarchy, dark matter, black hole singularity, nuclear fusion, etc.
 
+**Breakthroughs in Mathematical Foundation (M-0 Series)**: From M-0.1 to M-0.13, mathematical foundations of fractal geometry, spectral dimension flow, etc. are established; **The M-0.14 series serves as the core module for spacetime origin, rigorously proving the mathematical necessity of four-dimensional spacetime (3+1 dimensions) from first principles** — M-0.14 proves that spatial dimensions originate from fractal dimension integerization and temporal dimensions emerge from spectral dimension flow; M-0.14.1 studies spectral dimension extension at high energy limits; M-0.14.2 explores time quantization; M-0.14.3 proves multi-time instability; **M-0.14.4 completes the classification of all possible 4D spacetime forms (4+0, 3+1, 2+2, 1+3, 0+4) and systematically eliminates other forms, proving that 3+1 dimensions is the only physically viable form satisfying ergodicity, causal stability, and dynamical well-posedness**, thereby completely answering the fundamental question of "why 3+1 dimensions".
+
+**Unified Framework for Physical Applications**: Realizing the compatible unification of string theory and fractal Clifford algebra, constructing fractal string theory under fixed 4D topology; realizing the compatible unification of loop quantum theory and fractal Clifford algebra, constructing fractal spin foam model; constructing fractal-torsion model of black holes, treating black holes as torsion-saturated fractal cores, solving the singularity problem and information paradox in traditional theories; developing spacetime hardening effect theory, deeply integrating fractal geometry, Clifford algebra and fluid mechanics, explaining the nonlinear properties of spacetime; establishing algebraic-topological-dynamic unified theory of time, revealing the triple origin of time's unidirectionality, proving that time is irreversible at both micro and macro scales; and based on time principle, providing a unified explanation for micro time reversal experiments, pointing out that the so-called time reversal is just an illusion of topological sequence mirror evolution, and there is no true time reversal, thus unifying the time properties of micro and macro; completing the mathematical proof of spectral dimension mapping from high-dimensional space to four-dimensional spacetime, establishing topological-spectral dimension bidirectional mapping, proving that spectral dimension flow is the projection from high-dimensional space to four-dimensional spacetime; establishing geometric derivation of mediator particle mass and force long-range nature, constructing the complete theoretical chain of "geometric torsion → mediator particle mass → force long-range nature", deriving electromagnetic force, electric field, magnetic field and Maxwell equations from geometric perspective; constructing geometric explanation of basic quantum mechanical phenomena, including unified geometric explanations of wave function collapse, quantum entanglement and quantum interference, eliminating conceptual dilemmas of traditional quantum mechanics and achieving self-consistent unification of quantum mechanics and relativity; finally, applying the theory to nuclear fusion, constructing fractal-torsion nuclear fusion model, deriving modified nucleon potential and nuclear fusion reaction rate, providing a new theoretical framework for improving nuclear fusion efficiency. This theoretical system provides multiple testable predictions from high-energy physics to cosmology to energy applications, offering new pathways for quantum gravity experimental verification and energy technology development.
 ## Keywords
-Fractal Clifford algebra; Fixed 4D topology; Dynamic spectral dimension; Multiple torsion quantization; Gauge symmetry; Dirac operator; Dark matter theory; Spacetime hardening effect; Time principle; Dynamic topological foundation; Micro time reversal experiment; Time unidirectionality; Time non-monotonicity; Topological mirror inversion; Black hole fractal-torsion model; Black hole information paradox; Spectral dimension flow; Holographic duality; Nuclear fusion theory; Fractal-torsion nuclear fusion model; Modified nucleon potential; Reaction rate correction; Plasma confinement; String theory; Loop quantum theory; Fractal string theory; Fractal spin foam; Spin network; Spin foam; String vibration mode; Black hole fractal core; High-dimensional space to four-dimensional spacetime projection; Spectral dimension mapping; Topological-geometric invariant; Multiple fractal measure moment function; Heat kernel trace; Spectral dimension flow space; Torsion parameter; Topological-spectral dimension bidirectional mapping; Mediator particle mass; Force long-range nature; Geometric torsion; Electromagnetic force geometric derivation; Quantum mechanics geometric explanation; Wave function collapse; Quantum entanglement; Quantum interference; Single photon double-slit interference; Delayed erasure experiment; Topological superposition structure; Fiber bundle topological coupling
+Fractal Clifford algebra; Fixed 4D topology; Dynamic spectral dimension; Multiple torsion quantization; Gauge symmetry; Dirac operator; Dark matter theory; Spacetime hardening effect; Time principle; Dynamic topological foundation; Micro time reversal experiment; Time unidirectionality; Time non-monotonicity; Topological mirror inversion; Black hole fractal-torsion model; Black hole information paradox; Spectral dimension flow; Holographic duality; Nuclear fusion theory; Fractal-torsion nuclear fusion model; Modified nucleon potential; Reaction rate correction; Plasma confinement; String theory; Loop quantum theory; Fractal string theory; Fractal spin foam; Spin network; Spin foam; String vibration mode; Black hole fractal core; High-dimensional space to four-dimensional spacetime projection; Spectral dimension mapping; Topological-geometric invariant; Multiple fractal measure moment function; Heat kernel trace; Spectral dimension flow space; Torsion parameter; Topological-spectral dimension bidirectional mapping; Mediator particle mass; Force long-range nature; Geometric torsion; Electromagnetic force geometric derivation; Quantum mechanics geometric explanation; Wave function collapse; Quantum entanglement; Quantum interference; Single photon double-slit interference; Delayed erasure experiment; Topological superposition structure; Fiber bundle topological coupling; Spacetime dimension origin; Necessity of four-dimensional spacetime; Uniqueness of four-dimensional spacetime; Complete classification of spacetime forms; Ergodicity criterion; Causal structure stability; Dynamical stability; Uniqueness of 3+1 dimensions; High-dimensional spectral dimension manifestation; Spectral dimension decoherence
 
 ## Table of Contents
 - [Master Outline: Fixed 4D Topology - Dynamic Spectral Dimension Multiple Torsion Fractal Clifford Algebra Unified Field Theory](#master-outline-fixed-4d-topology---dynamic-spectral-dimension-multiple-torsion-fractal-clifford-algebra-unified-field-theory)
@@ -42,6 +45,9 @@ Fractal Clifford algebra; Fixed 4D topology; Dynamic spectral dimension; Multipl
     - [5.3 Geometric Description Equivalence](#53-geometric-description-equivalence)
     - [5.4 Strict Mathematical Proof of High-Dimensional Projection](#54-strict-mathematical-proof-of-high-dimensional-projection)
     - [5.5 Measure and Integral Compatibility](#55-measure-and-integral-compatibility)
+    - [5.6 Mathematical Necessity of Spacetime Dimension Origin](#56-mathematical-necessity-of-spacetime-dimension-origin)
+      - [5.6.1 M-0.14 Mathematical Origin of Four-Dimensional Spacetime](#561-m-014-mathematical-origin-of-four-dimensional-spacetime)
+      - [5.6.2 M-0.14.4 Complete Classification and Uniqueness of 4D Forms](#562-m-0144-complete-classification-and-uniqueness-of-4d-forms)
   - [6 Physical Applications and Experimental Verification](#6-physical-applications-and-experimental-verification)
     - [6.1 Particle Physics Applications](#61-particle-physics-applications)
     - [6.2 Nuclear Fusion Applications](#62-nuclear-fusion-applications)
@@ -112,6 +118,16 @@ The series papers adopt **M category (mathematical foundation) + P category (phy
 | M-0.6 | Fractal Geometric Interpretation of Goldbach Conjecture | Fractal equivalent form of Goldbach conjecture, fractal characteristics of prime number distribution, proof framework based on unified fractal dimension expression | Goldbach conjecture fractal interpretation |
 | M-0.7 | In-depth Research and Extension of Spectral Dimension Flow Theory | High-dimensional spectral dimension flow, spectral dimension flow of multifractal sets, dynamic spectral dimension flow, inverse problem of spectral dimension flow | Spectral dimension flow extension |
 | M-0.8 | Basic Derivation of 4D Minkowski Spacetime | Derivation of 4D Minkowski spacetime structure from M-0 series basic theories, including theoretical foundations of fractal dimension, inner product space, spectral dimension flow, and high-dimensional spectral dimension flow | 4D spacetime geometric foundation |
+| M-0.9 | PTE Problem and Fractal Geometry Connections | Fractal geometric interpretation of Prouhet-Tarry-Escott (PTE) problem, deep connections between multivariate equal power sums and fractal structures | Deepening number theory and fractal unification |
+| M-0.10 | Completion of Measure Theory and Fractal Measures | Completion of measure spaces, strict construction of fractal measures, measure-theoretic foundation of Hausdorff measure and spectral dimension | Measure theory foundation |
+| M-0.11 | Variational Principles in Fractal Geometry | Fractal energy functionals, application of variational methods in fractal geometry, extremum principles and spectral dimension flow | Variational foundation |
+| M-0.12 | Spectral Analysis of Fractal Function Spaces | Fractal function spaces, spectral decomposition theory, eigenvalue problems and fractal vibration modes | Spectral analysis foundation |
+| M-0.13 | Ergodicity and Stability of Dynamical Systems | Ergodic theory of fractal dynamical systems, stability criteria, Lyapunov exponents and fractal attractors | Dynamical systems foundation |
+| **M-0.14** | **Mathematical Origin of Spacetime Dimensions — From Fractal Geometry to Four-Dimensional Necessity** | **Strict derivation of spatial and temporal dimension origins from first principles, proving that four-dimensional spacetime (3+1 dimensions) is the inevitable result of fractal self-similarity, spectral dimension flow stability, and dynamical system ergodicity** | **Core module for spacetime origin** |
+| M-0.14.1 | Spectral Dimension Extension at High Energy Limit | Mathematical structure of spectral dimension $d_s > 4$ at high energy limit, existence of high-dimensional spectral dimension manifestation and its decoherence mechanism with energy scale, clarifying distinction between topological dimension and spectral dimension manifestation | High-energy spectral manifestation theory |
+| M-0.14.2 | Mathematical Theory of Time Quantization | Strict mathematical formulation of time quantization, mathematical foundation of discrete time dynamics, physical effects of time quantization | Time quantization theory |
+| M-0.14.3 | Multi-time Dimension Instability Theory | Proof that multi-time dimensions lead to causal structure destruction and dynamical instability, establishing uniqueness of single time dimension | Multi-time instability theory |
+| **M-0.14.4** | **Analysis of Alternative 4D Spacetime Forms** | **Systematic analysis of possible 4D spacetime forms other than standard 3+1 dimensions (4+0, 2+2, 1+3, 0+4), proving that 3+1 dimensions is the only four-dimensional spacetime form satisfying all physical stability conditions** | **Four-dimensional spacetime uniqueness enhancement** |
 | M-1 | Tool Preparation and Problem Raising | Mathematical tools such as Bott periodicity, covering maps, representation theory | Theoretical foundation toolset |
 | M-2 | Fractal Spacetime Theory | Core paradigm of fixed topology + dynamic spectral dimension, fractal measure and heat kernel estimation | Core paradigm construction |
 | M-3 | Spin and Multiple Torsion Theory | Mathematical description of multiple torsion mechanism, geometric origin of spin theory | Static geometric mechanism |
@@ -121,7 +137,7 @@ The series papers adopt **M category (mathematical foundation) + P category (phy
 | M-7 | Geometric Derivation of Mediator Particle Mass and Force Long-Range Nature | Geometric origin of mediator particle mass, geometric mechanism of force long-range nature, complete geometric derivation of electromagnetic force | Geometric connection between mass and force |
 | M-8 | Fractal High-Speed Torsion Quantization and Microscopic Origin of Multiple Torsion | Quantization theory of fractal high-speed torsion, microscopic origin of multiple torsion, quantitative relationship between gyroscopic torsion model and mass generation | Torsion quantization microscopic foundation |
 
-**Logical progression of M category**: M-0.x series (M-0.1 to M-0.8) establish mathematical foundations such as fractal geometry, inner product space, modular forms, spectral dimension flow, and derive 4D Minkowski spacetime structure from M-0 series basic theories, then from mathematical tool preparation (M-1), to core paradigm construction (M-2), to static geometric mechanism (M-3 multiple torsion theory), developing to dynamic geometric mechanism (M-4) and time principle (M-5), completing strict mathematical proof of high-dimensional space to four-dimensional spacetime projection through M-6, then establishing geometric connection between mediator particle mass and force long-range nature through M-7, and finally deeply exploring fractal high-speed torsion quantization and microscopic origin of multiple torsion through M-8, forming a complete geometric theory system, laying a solid mathematical foundation for subsequent physical applications.
+**Logical progression of M category**: The M-0.x series builds a complete theoretical system from foundational mathematics to spacetime origin: M-0.1 to M-0.8 establish mathematical foundations such as fractal geometry, inner product space, modular forms, and spectral dimension flow, and derive the 4D Minkowski spacetime structure; M-0.9 to M-0.13 deepen number theory connections (PTE problem), measure theory, variational principles, spectral analysis, and dynamical systems theory; **The M-0.14 series serves as the core module for spacetime origin, rigorously proving the necessity of four-dimensional spacetime (3+1 dimensions) from first principles** — M-0.14 proves that spatial dimensions originate from fractal dimension integerization and temporal dimensions emerge from spectral dimension flow; M-0.14.1 studies spectral dimension extension at high energy limits; M-0.14.2 explores time quantization; M-0.14.3 proves multi-time instability; **M-0.14.4 proves that 3+1 dimensions is the only physically viable four-dimensional spacetime form through complete classification and systematic elimination**. Then from mathematical tool preparation (M-1), to core paradigm construction (M-2), to static geometric mechanism (M-3 multiple torsion theory), developing to dynamic geometric mechanism (M-4) and time principle (M-5), completing strict mathematical proof of high-dimensional space to four-dimensional spacetime projection through M-6, then establishing geometric connection between mediator particle mass and force long-range nature through M-7, and finally deeply exploring fractal high-speed torsion quantization and microscopic origin of multiple torsion through M-8, forming a complete geometric theory system, laying a solid mathematical foundation for subsequent physical applications.
 
 ### 4.2 P Category (Physical Application): From Gauge Field Theory to Dark Matter
 
@@ -155,53 +171,77 @@ The series papers adopt **M category (mathematical foundation) + P category (phy
 The logical relationship between chapters follows the principle of "mathematical foundation → geometric mechanism → physical application → experimental verification":
 
 ```
-M-0.1 (Fractal Dimension Foundation) → M-0.2 (Inner Product Space) → M-0.3 (Unified Fractal Dimension Expression) → M-0.4 (Prime Number Generating Function) → M-0.5 (Fast Convergence Algorithm) → M-0.6 (Goldbach Conjecture) → M-0.7 (Spectral Dimension Flow) → M-0.8 (4D Minkowski Spacetime)
-     ↓                                   ↓                                   ↓                                   ↓                                   ↓                                   ↓                                   ↓                                   ↓
-M-1 (Tool Preparation) → M-2 (Core Paradigm) → M-3 (Static Torsion) → M-4 (Dynamic Topology) → M-5 (Time Principle) → M-6 (Spectral Dimension Mapping) → M-7 (Geometric Derivation of Mass and Force) → M-8 (Fractal High-Speed Torsion Quantization)
-     ↓                                   ↓                                   ↓                                   ↓                                   ↓                                   ↓                                   ↓
-P-1 (Unified Field Theory) → P-2 (Dirac Operator) → ┬───────────────┬───────────────┬────────────────────────┬────────────────────────┬────────────────────────┐
-                                                  ↓               ↓               ↓                        ↓                        ↓                        ↓
-                                              P-3 (String Theory)  P-10 (Loop Quantum Theory)  P-7 (Time Reversal Experiment)  P-11 (Cosmic Origin)  P-13 (Cosmic Fiber Spin)  P-8 (Black Hole Theory)
-                                                  ↓               ↓               ↓                                                  │                        │                        │
-                                                  └───────────────┴───────────────┘                                                  │                        │                        │
-                                                                            ↓                                                        │                        │                        │
-                                                                       P-4 (Holographic Duality)                                     │                        │                        │
-                                                                            ↓                                                        │                        │                        │
-                                                                            ├─────────────────────────┤                              │                        │                        │
-                                                                            ↓                         ↓                              │                        │                        │
-                                                                      P-5 (Dark Matter Theory)      P-9 (Nuclear Fusion Theory)      │                        │                        │
-                                                                      P-6 (Spacetime Hardening Effect)  P-8 (Black Hole Theory) ─────┴────────────────────────┴────────────────────────┘
-                                                                            │
-                                                                            ↓
-                                                                      P-12 (Geometric Explanation of Quantum Mechanics)
-                                                                            │
-                                                                            ↓
-                                                                      P-16 (Photon Frequency and Coarse-Grained Quantization)
-                                                                            │
-                                                                            ↓
-                                                                      P-17 (Geometric Essence of Orthogonal Torsion)
-                                                                            │
-                                                                            ↓
-                                                                      P-18 (Torsion Evolution Dynamics and Spectral Dimension Flow)
-                                                                            │
-                                                                            ↓
-                                                                      P-19 (Orthogonal Torsion Theory and Topological Protection Mechanism)
-                                                                            │
-                                                                            ↓
-                                                                      P-20 (Geometric Unified Theory of Redshift)
-                                                                            │
-                                                                            ↓
-                                                                      P-14 (Cosmic Evolution After Black Hole Remnants and High-Dimensional Cosmic Theory)
-                                                                            │
-                                                                            ↓
-                                                                      P-15 (Multiverse Physical Laws and Cross-Universe Interaction Theory)
+                                    【M-0 Series: Mathematical Foundation and Spacetime Origin】
+                                    
+M-0.1 → M-0.2 → M-0.3 → M-0.4 → M-0.5 → M-0.6 → M-0.7 → M-0.8 → M-0.9 → M-0.10 → M-0.11 → M-0.12 → M-0.13
+(Fractal) (Inner  (Unified) (Prime  (Fast   (Gold-  (Spectral) (4D     (PTE    (Measure (Variational (Spectral) (Dynamical
+ Dimension) Product) Expression) Generating) Convergence) bach)  Dimension) Spacetime) Problem) Theory) Principle) Analysis) Systems)
+                                                           ↓
+                                                    【M-0.14: Spacetime Origin Core】
+                                                           ↓
+              ┌───────────┬───────────┬───────────┬───────────┬───────────┐
+              ↓           ↓           ↓           ↓           ↓
+           M-0.14     M-0.14.1   M-0.14.2   M-0.14.3   M-0.14.4
+         (4D Necessity) (High-Energy (Time      (Multi-time (4D Form
+                        Spectral    Quantization) Instability) Uniqueness)
+                        Extension)
+              │
+              ↓
+M-1 → M-2 → M-3 → M-4 → M-5 → M-6 → M-7 → M-8
+(Tools) (Paradigm) (Static) (Dynamic) (Time) (Spectral) (Mass and (Torsion
+                      Torsion) Topology) Principle) Dimension) Force     Quantization)
+                                                          Mapping)   Geometry) Microscopic)
+              │
+              ↓
+              【P Series: Physical Applications】
+              │
+              ↓
+P-1 → P-2 → ┬───────────┬───────────┬──────────────────────┬──────────────────────┬──────────────────────┐
+           ↓           ↓           ↓                      ↓                      ↓                      ↓
+       P-3 (String    P-10 (Loop   P-7 (Time Reversal)    P-11 (Cosmic Origin)   P-13 (Cosmic Fiber   P-8 (Black Hole
+           Theory)     Quantum)                                                      Spin)               Theory)
+           ↓           ↓           ↓                       │                      │                      │
+           └───────────┴───────────┘                       │                      │                      │
+                         ↓                                 │                      │                      │
+                    P-4 (Holographic Duality)               │                      │                      │
+                         ↓                                 │                      │                      │
+                         ├─────────────────────────┤       │                      │                      │
+                         ↓                         ↓       │                      │                      │
+                   P-5 (Dark Matter Theory)      P-9       │                      │                      │
+                   P-6 (Spacetime Hardening)    (Nuclear   │                      │                      │
+                                                Fusion)    │                      │                      │
+                                                         P-8 (Black Hole) ────────┴──────────────────────┘
+                         │
+                         ↓
+                   P-12 (Geometric Explanation of Quantum Mechanics)
+                         │
+                         ↓
+                   P-16 (Photon Frequency and Coarse-Grained Quantization)
+                         │
+                         ↓
+                   P-17 (Geometric Essence of Orthogonal Torsion)
+                         │
+                         ↓
+                   P-18 (Torsion Evolution Dynamics)
+                         │
+                         ↓
+                   P-19 (Topological Protection Mechanism)
+                         │
+                         ↓
+                   P-20 (Geometric Unified Theory of Redshift)
+                         │
+                         ↓
+                   P-14 (Cosmic Evolution After Black Hole Remnants)
+                         │
+                         ↓
+                   P-15 (Multiverse Physical Laws)
 ```
 
 **Detailed logical progression**:
 
-1. **Mathematical foundation (M-0 series)**: Establish the mathematical basis for fractal geometry, inner product space, modular forms, spectral dimension flow, etc., providing strict mathematical support for subsequent geometric and physical theories.
+1. **Mathematical foundation (M-0 series)**: Establish the mathematical basis for fractal geometry, inner product space, modular forms, spectral dimension flow, etc. The M-0.14 series serves as the core module for spacetime origin, rigorously proving the necessity of four-dimensional spacetime (3+1 dimensions) from first principles, providing strict mathematical support for subsequent geometric and physical theories.
 
-2. **Geometric mechanism (M-1 to M-8)**: Based on mathematical foundation, construct core paradigms such as fixed topology + dynamic spectral dimension, multiple torsion mechanism, dynamic topology transformation, time principle, etc., forming a complete geometric theory system from static to dynamic, from space to time.
+2. **Geometric mechanism (M-1 to M-8)**: Based on mathematical foundation (including the M-0.14 spacetime origin core), construct core paradigms such as fixed topology + dynamic spectral dimension, multiple torsion mechanism, dynamic topology transformation, time principle, etc., forming a complete geometric theory system from static to dynamic, from space to time.
 
 3. **Physical application (P-1 to P-20)**: Apply geometric theory to specific physical fields, including gauge field theory, fermion physics, string theory, loop quantum theory, black holes, nuclear fusion, cosmology, quantum mechanics, etc., forming a multi-level physical application system.
 
@@ -521,6 +561,60 @@ The M-0 series modules (M-0.1 to M-0.7) construct a complete mathematical founda
   - In cosmology: Spectral dimension evolution of early universe
   - In fractal high-speed torsion: Spectral dimension flow directly affects quantization of torsion frequency, forming different mass hierarchies
 
+### 5.6 Mathematical Necessity of Spacetime Dimension Origin
+
+The theoretical system completes rigorous mathematical proof of spacetime dimension origin in the M-0.14 series modules. This is a crucial cornerstone of the theory, providing fundamental mathematical support for the "fixed 4D topology" core paradigm.
+
+#### 5.6.1 M-0.14 Mathematical Origin of Four-Dimensional Spacetime
+
+The M-0.14 module derives the origin of spacetime dimensions from first principles:
+
+**Spatial Dimension Origin Theorem**: Proves that spatial dimensions are the integerization result of fractal dimensions during iterative processes of self-similar structures:
+$$d_{space} = \lceil d_H \rceil - 1$$
+where $d_H$ is the Hausdorff dimension. Three-dimensional space originates from stability conditions of triple-overlapping self-similar fractals, being the only spatial dimension satisfying ergodicity, structural richness, and stability requirements.
+
+**Temporal Dimension Emergence Theorem**: Proves that the temporal dimension is the inevitable result of irreversible spectral dimension flow from high to low dimensions. The mathematical essence of time is the integral curve of the spectral dimension flow equation, with the time direction corresponding to the direction of decreasing spectral dimension, and the unidirectionality of time corresponding to the irreversibility of spectral dimension flow.
+
+**Four-Dimensional Spacetime Necessity Theorem**: Proves that four-dimensional spacetime (3+1 dimensions) is the unique solution arising from the triple conditions of fractal dimension integerization, spectral dimension flow stability, and dynamical system ergodicity.
+
+**Spacetime Dimension Quantization Theorem**: Establishes precise relationships between spacetime dimensions and fractal parameters:
+$$d_{space} = \left\lceil \frac{d_s(1 + \theta)}{2} \right\rceil - 1, \quad d_{time} = 1$$
+
+#### 5.6.2 M-0.14.4 Complete Classification and Uniqueness of 4D Forms
+
+**Core contribution of M-0.14.4 module**: Through complete classification and systematic elimination, rigorously proves that 3+1 dimensions is the only physically viable four-dimensional spacetime form.
+
+**Complete Classification Theorem**: Proves that there are exactly 5 possible four-dimensional spacetime forms:
+- (4, 0): Pure Euclidean space
+- (3, 1): Standard Minkowski spacetime
+- (2, 2): Double time spacetime
+- (1, 3): Hyper-time spacetime
+- (0, 4): Pure temporal space
+
+**Triple Stability Criteria**:
+1. **Ergodicity Criterion**: Requires $d_s \geq 2$ and $d_t = 1$, ensuring sufficient "mixing" of phase space
+2. **Causal Structure Criterion**: Requires $d_t = 1$, avoiding closed timelike curves (CTC)
+3. **Dynamical Stability Criterion**: Requires field equations (Klein-Gordon, Dirac, Einstein) to be well-posed
+
+**Systematic Elimination Proof**:
+- **(4,0) Pure Euclidean**: No time dimension, no dynamical evolution, no causal structure
+- **(2,2) Double Time**: Closed timelike curves exist (CTC probability ~39%), causal paradoxes unavoidable, second law of thermodynamics fails
+- **(1,3) Hyper-Time**: Insufficient spatial dimensions, three time directions lead to severely ill-posed Cauchy problems, energy unbounded below
+- **(0,4) Pure Temporal**: No spatial dimensions, cannot localize, cannot form structures
+
+**Uniqueness Enhancement Theorem**: Proves that among all possible four-dimensional spacetime forms, (3,1) dimensions is the only form simultaneously satisfying ergodicity, causal stability, dynamical well-posedness, and structural richness.
+
+**Stability Numerical Assessment**:
+| Form | (d_s, d_t) | Comprehensive Stability Index | Verdict |
+|-----|-----------|------------------------------|---------|
+| (4,0) | 0.250 | Not viable |
+| **(3,1)** | **0.938** | **Only viable** |
+| (2,2) | 0.125 | Not viable |
+| (1,3) | 0.062 | Not viable |
+| (0,4) | 0.000 | Not viable |
+
+**Theoretical Significance**: M-0.14.4 answers "why 3+1 dimensions" from the perspective of completeness — not coincidence, but mathematical necessity. Other forms are naturally selected out due to insufficient stability.
+
 ## 6 Physical Applications and Experimental Verification
 
 ### 6.1 Particle Physics Applications
@@ -631,16 +725,38 @@ The M-0 series modules (M-0.1 to M-0.7) construct a complete mathematical founda
 | Quantum tunneling effect | Spectral dimension flow correction, $P(E) = e^{-2G(E)/\sqrt{d_s(E)}}$ | Not involved in nuclear fusion | Not involved in nuclear fusion | Not involved in nuclear fusion | Traditional Gamow factor, $P(E) = e^{-2G(E)}$ |
 
 ### 7.2 Theoretical Breakthroughs
-- **Unification of quantum mechanics and relativity**: Realizing the self-consistent unification of quantum mechanics and relativity through fractal Clifford algebra framework.
-- **Solution to black hole information paradox**: Constructing fractal-torsion black hole model, solving the information paradox through torsion-saturated fractal core.
-- **Unification of string theory and loop quantum theory**: Realizing the compatible unification of string theory and loop quantum theory through fractal Clifford algebra framework.
-- **Explanation of time unidirectionality**: Revealing the triple origin of time's unidirectionality, proving that time is irreversible at both micro and macro scales.
-- **Derivation of electromagnetic force**: Deriving electromagnetic force, electric field, magnetic field and Maxwell equations from geometric perspective.
-- **Fractal high-speed torsion quantization**: Establishing quantumization theory of fractal high-speed torsion, providing microscopic origin for multiple torsion mechanism.
-- **Cosmic fiber spin explanation**: Providing multiple torsion theory explanation for cosmic fiber spin, establishing geometric origin of cosmic large-scale structure.
-- **Spacetime hardening effect**: Developing spacetime hardening effect theory, explaining nonlinear properties of spacetime through fractal torsion.
-- **Hypothesis-free architecture**: Establishing hypothesis-free theoretical architecture, improving logical rigor and falsifiability of the theory.
-- **Dynamic spectral dimension flow**: Proposing dynamic spectral dimension flow theory, realizing projection from high-dimensional space to four-dimensional spacetime.
+1. **Core paradigm innovation**: Fixed 4D topology + dynamic spectral dimension, solving the confusion between topology and spectral dimension, providing a new framework for unified field theory.
+2. **Multiple torsion quantization**: Unified description of gauge symmetry origin, fermion mass hierarchy, and dark matter, achieving natural integration of particle physics and cosmology, providing new solutions for black hole information paradox and time properties.
+3. **Strict proof of high-dimensional projection**: Through strict mathematical proof in M-6 module, establishing spectral dimension flow as the mathematical foundation for projection from high-dimensional space to four-dimensional spacetime, solving the problem of lack of strict proof for compactification mechanisms in traditional high-dimensional theories.
+4. **Topological-spectral dimension bidirectional mapping**: Establishing one-to-one correspondence between topological invariants and spectral dimension parameters, achieving precise transformation from high-dimensional space geometric invariants to four-dimensional spacetime dynamical parameters, providing a solid mathematical bridge for unified field theory.
+5. **Fractal Clifford algebra construction**: Establishing Clifford algebra framework in fractal spacetime, providing strict mathematical foundation for quantum gravity.
+6. **Spacetime hardening effect**: Deeply integrating fractal geometry, Clifford algebra and fluid mechanics, explaining nonlinear properties of spacetime, providing new explanatory perspectives for relativistic effects.
+7. **Time principle establishment**: Establishing algebraic-topological-dynamic unified theory of time, revealing the triple origin of time's unidirectionality, proving that time is irreversible at both micro and macro scales.
+8. **Black hole fractal-torsion model**: Treating black holes as torsion-saturated fractal cores, solving singularity problem and information paradox in traditional black hole theories, providing new theoretical framework for black hole physics.
+9. **Dark matter theory unification**: Integrating multiple torsion dark matter model and orthogonal torsion mode dark matter, forming complete dark matter theoretical system, explaining the nature of dark matter.
+10. **Dynamic spectral dimension flow**: Deriving flow equations for spectral dimension variation with energy scale, avoiding ultraviolet divergence in particle physics, describing spectral dimension variation from black hole center to infinity in black hole physics, explaining early universe evolution in cosmology, correcting quantum tunneling effect in nuclear fusion.
+11. **Holographic duality and quantization**: Establishing holographic duality relations in fractal spacetime, proposing quantization schemes for black holes, ensuring conservation of quantum information.
+12. **String theory compatible unification and fractal string theory construction**: Achieving compatible unification of string theory and fractal Clifford algebra, establishing strict mapping between string vibration modes and Dirac operator eigenvalues, constructing fractal string theory under fixed 4D topology, providing precise mass spectrum formulas and scattering amplitudes, achieving effective mapping from high-dimensional string theory to 4D spacetime, providing new mathematical foundation for quantum gravity.
+13. **Loop quantum theory compatible unification and fractal spin foam theory construction**: Achieving compatible unification of loop quantum theory and fractal Clifford algebra, establishing strict mapping between spin networks and Clifford algebra, constructing fractal spin foam model under fixed 4D topology, providing precise amplitude formulas and dynamical equations, achieving organic unification of discrete and continuous, providing new mathematical foundation for quantum gravity.
+14. **Extensive experimental testability**: Providing multiple testable predictions from high-energy physics (colliders) to cosmology (gravitational waves, CMB) to black hole physics (black hole shadows, Hawking radiation), providing rich experimental pathways for theory verification.
+15. **Nuclear fusion theory innovation**: Applying fractal Clifford algebra and multiple torsion mechanism to nuclear fusion, constructing fractal-torsion nuclear fusion model, correcting nucleon-nucleon interaction potential and nuclear fusion reaction rate, providing new theoretical framework for improving nuclear fusion efficiency.
+16. **Quantum tunneling effect correction**: Correcting quantum tunneling effect through spectral dimension flow, lowering critical conditions for nuclear fusion, providing theoretical support for achieving more efficient nuclear fusion.
+17. **Plasma confinement enhancement**: Studying effects of spacetime hardening on plasma confinement, deriving confinement time correction formulas, providing new theoretical ideas for extending plasma confinement time.
+18. **Cosmic origin model innovation**: Constructing cosmic origin model under fixed topology-dynamic spectral dimension paradigm, proposing singularity-free initial conditions, explaining early universe evolution and primordial structure formation, providing new theoretical framework for cosmology.
+19. **Quantum mechanics geometric foundation establishment**: Constructing geometric explanations of basic quantum mechanical phenomena, including unified geometric explanations of wave function collapse, quantum entanglement and quantum interference, eliminating conceptual dilemmas of traditional quantum mechanics, achieving self-consistent unification of quantum mechanics and relativity, establishing solid geometric foundation for quantum mechanics.
+20. **Photon frequency and coarse-grained quantization theory**: Establishing geometric essence of photon frequency, explaining origin of photon frequency through spinor coarse-grained quantization theory, studying relationship between photon frequency and spectral dimension flow, providing photon frequency foundation for geometric essence of orthogonal torsion, achieving unification of photon frequency and spacetime geometry.
+21. **Geometric essence of orthogonal torsion**: Establishing geometric structure theory of orthogonal torsion, distinguishing static orthogonal torsion from dynamic orthogonal torsion, studying topological properties of orthogonal torsion, explaining physical mechanisms of orthogonal torsion based on least action principle, providing geometric foundation for quantum phenomena and dark matter theory.
+22. **Torsion evolution dynamics and spectral dimension flow**: Establishing dynamical equations for torsion evolution, studying relationship between spectral dimension flow and torsion evolution, analyzing stability of torsion evolution, developing from geometric essence of orthogonal torsion to torsion evolution dynamics, providing theoretical framework for understanding dynamic evolution of torsion.
+23. **Orthogonal torsion theory and topological protection mechanism**: Establishing mathematical origin of topological protection, through mathematical tools such as Chern classes, K-theory, index theorem and covering map kernel, studying relationship between topological protection and least action principle, providing topological protection theoretical foundation for geometric essence of orthogonal torsion and torsion evolution dynamics, achieving unification of topological protection and quantum phenomena.
+24. **Geometric unified theory of redshift**: Achieving unified geometric explanation of cosmological redshift, gravitational redshift and Doppler redshift, studying relationship between redshift and spectral dimension flow, revealing geometric essence of redshift, providing new theoretical perspective for understanding cosmic expansion and gravitational effects.
+25. **Multiple torsion explanation of cosmic fiber spin**: Proposing multiple torsion theoretical explanation of cosmic fiber spin, attributing cosmic fiber spin to macroscopic manifestation of spacetime fiber multiple torsion at cosmic scale, establishing unified connection between microscopic particle spin and macroscopic cosmic fiber spin, providing cosmological verification pathway for quantum gravity.
+26. **Unified explanation of rotating black hole frame-dragging**: Interpreting Lense-Thirring effect of rotating black holes dragging spacetime as multiple torsion of spacetime fibers around black holes, achieving geometric understanding of this important relativistic effect, providing empirical support for combining black hole physics with unified field theory.
+27. **Fractal high-speed torsion quantization theory**: Establishing quantization theory for high-speed torsion of fractal spacetime fibers, satisfying quantization condition $\oint \omega^f \cdot d\mathbf{x} = n \hbar$, revealing microscopic origin of multiple torsion, providing topological foundation for mass quantization.
+28. **Gyroscopic torsion model**: Analogizing spacetime fiber torsion to classical gyroscope rotation, establishing quantitative relationship between torsion frequency and equivalent mass $m_{eq} = m_0 \sqrt{1 + \frac{\omega^2 r^2}{c^2}}$, verifying essence of mass as inertial measure of topological structure, providing intuitive physical image for mass origin.
+29. **Topological quantization of mass**: Through fractal high-speed torsion quantization, tracing mass origin back to topological structure of spacetime fibers, achieving topological quantization of mass, providing new theoretical framework for solving mass hierarchy problem.
+30. **Mathematical proof of spacetime dimension origin**: Through M-0.14 series modules, rigorously proving from first principles that spatial dimensions originate from fractal dimension integerization and temporal dimensions emerge from spectral dimension flow, establishing mathematical origin theory of spacetime dimensions, elevating spacetime from a priori assumption to mathematically derived necessary conclusion.
+31. **Completeness proof of four-dimensional spacetime uniqueness**: Through M-0.14.4 module, completely classifying all possible four-dimensional spacetime forms ((4,0), (3,1), (2,2), (1,3), (0,4)), and systematically eliminating other forms through triple criteria of ergodicity, causal structure, and dynamical stability, rigorously proving that 3+1 dimensions is the only physically viable four-dimensional spacetime form, fundamentally answering the basic question of physics "why 3+1 dimensions".
+32. **Strict distinction between topological dimension and spectral dimension manifestation**: Through M-0.14.1 module, strictly distinguishing topological dimension (fixed 4D spacetime entity structure) from spectral dimension manifestation (effective dimension characteristics of field propagation varying with energy scale), clarifying conceptual confusion in traditional "extra dimension" theories, establishing precise mathematical formulation of "fixed topological dimension + dynamic spectral dimension manifestation".
 
 ## 8 Reading Guide and Theoretical Module Positioning
 
@@ -653,6 +769,7 @@ The M-0 series modules (M-0.1 to M-0.7) construct a complete mathematical founda
 | Experimental physicists | P-1 → P-2 → P-5 → P-6 → P-7 → P-8 → P-9 → P-10 → P-11 → P-12 → Experimental verification schemes | Experimental verification, observable effects, measurement methods |
 | Cosmologists | M-5 → M-6 → P-5 → P-8 → P-11 → P-13 → P-14 → P-15 | Cosmic evolution, black holes, dark matter, multiverse |
 | Nuclear fusion researchers | M-4 → M-7 → P-9 | Fractal-torsion nuclear fusion model, reaction rate correction |
+| Spacetime dimension origin researchers | M-0.14 → M-0.14.4 → M-0.14.1 → M-0.14.2 → M-0.14.3 → M-0.1 → M-0.2 → M-0.7 | Mathematical proof of 4D spacetime origin, completeness classification, uniqueness proof |
 
 ### 8.2 Key Theoretical Modules and Core Formulas
 
@@ -732,15 +849,16 @@ This series of papers provides new ideas and methods for quantum gravity researc
 ---
 
 **Series Papers Structure**:
-- **M-0 Category (Mathematical Foundation)**: M-0.1, M-0.2, M-0.3, M-0.4, M-0.5, M-0.6, M-0.7
+- **M-0 Category (Mathematical Foundation)**: M-0.1, M-0.2, M-0.3, M-0.4, M-0.5, M-0.6, M-0.7, M-0.8, M-0.9, M-0.10, M-0.11, M-0.12, M-0.13, M-0.14, M-0.14.1, M-0.14.2, M-0.14.3, M-0.14.4
 - **M Category (Mathematical Foundation)**: M-1, M-2, M-3, M-4, M-5, M-6, M-7, M-8
-- **P Category (Physical Application)**: P-1, P-2, P-3, P-4, P-5, P-6, P-7, P-8, P-9, P-10, P-11, P-12, P-13, P-14, P-15
+- **P Category (Physical Application)**: P-1, P-2, P-3, P-4, P-5, P-6, P-7, P-8, P-9, P-10, P-11, P-12, P-13, P-14, P-15, P-16, P-17, P-18, P-19, P-20
 
-**Master Outline Version**: v6.6.0  
-**Last Updated**: January 10, 2026
+**Master Outline Version**: v6.7.0  
+**Last Updated**: January 30, 2026
 
 ## Version History
 
+- **v6.7.0** (2026-01-30): Create M-0.14 series spacetime origin core modules — M-0.14: Mathematical Origin of Spacetime Dimensions, rigorously proving the necessity of four-dimensional spacetime (3+1 dimensions) from first principles; M-0.14.1: Spectral Dimension Extension at High Energy Limit, clarifying the distinction between topological dimension and spectral dimension manifestation; M-0.14.2: Mathematical Theory of Time Quantization; M-0.14.3: Multi-time Dimension Instability Theory; **M-0.14.4: Analysis of Alternative 4D Spacetime Forms, through complete classification of all possible four-dimensional spacetime forms (4+0, 3+1, 2+2, 1+3, 0+4) and systematic elimination of other forms, proving that 3+1 dimensions is the only physically viable form satisfying ergodicity, causal stability, and dynamical well-posedness**. Update master outline, add M-0.9 to M-0.13 modules, add Section 5.6 "Mathematical Necessity of Spacetime Dimension Origin", improve positioning of M-0.14 series in the theoretical system.
 - **v6.6.0** (2026-01-10): Create M-0.8, P-16, P-17, P-18, P-19, P-20 modules
 - **v6.5.0** (2026-01-10): Optimize series theory name from "Mathematical self-consistency proof and spacetime dynamics based on fractal Clifford algebra" to "Fixed 4D topology - dynamic spectral dimension multiple torsion fractal Clifford algebra unified field theory", revise conclusion part, clearly reference [P-1] multiple torsion quantization scheme, add P-10 and M-6 related content. Create P-11: Cosmic origin under fixed topology - dynamic spectral dimension paradigm, improve cosmology application branch, create M-7: Geometric derivation of mediator particle mass and force long-range nature, create M-8: Fractal high-speed torsion quantization and microscopic origin of multiple torsion, create P-12: Geometric explanation of basic quantum mechanical phenomena, create P-13: Multiple torsion theory explanation of cosmic fiber spin, improve cosmic large-scale structure application branch, add M-0 series mathematical foundation modules (M-0.1 to M-0.7), add P-14 and P-15 modules
 - **v6.4.0** (2026-01-01): Create P-8: Black hole theory
