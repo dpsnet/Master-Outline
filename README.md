@@ -5,7 +5,7 @@ This repository contains the core theoretical framework for the Unified Field Th
 ## Repository Structure
 
 ### Core Documents
-- **总纲**: Comprehensive overview of the unified field theory
+- **Master_Outline**: Comprehensive overview of the unified field theory
 - **Fundamental Principles**: Basic principles and postulates
 - **Mathematical Framework**: Core mathematical structures
 
@@ -21,4 +21,10 @@ This repository contains the core theoretical framework for the Unified Field Th
 - [Physical-Applications](https://github.com/dpsnet/Physical-Applications): Physical applications and experimental verifications
 
 ## License
-MIT License
+CC BY 4.0 License
+
+---
+
+## 📚 相关文档
+
+- [项目文档中心](../Theory-Documentation) - 理论规划、概念澄清、术语标准
