@@ -20,12 +20,6 @@
 - [高级理论框架](https://github.com/dpsnet/Advanced-Theoretical-Framework)：高级理论模型与扩展
 - [物理应用](https://github.com/dpsnet/Physical-Applications)：物理应用与实验验证
 
-## 许可协议
-
-MIT 许可协议
-
----
-
 ## 版权声明
 
 本作品采用 **知识共享署名 4.0 国际 (CC BY 4.0) 许可证** 进行许可。

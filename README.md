@@ -20,12 +20,6 @@ This repository contains the core theoretical framework for the Unified Field Th
 - [Advanced-Theoretical-Framework](https://github.com/dpsnet/Advanced-Theoretical-Framework): Advanced theoretical models and extensions
 - [Physical-Applications](https://github.com/dpsnet/Physical-Applications): Physical applications and experimental verifications
 
-## License
-
-MIT License
-
----
-
 ## Copyright Notice
 
 This work is licensed under the **Creative Commons Attribution 4.0 International (CC BY 4.0)** License.
