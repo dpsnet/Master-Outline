@@ -1,6 +1,6 @@
-# 统一场理论核心理论
+# 统一场理论总纲
 
-本仓库包含固定4维拓扑和动态谱维的统一场理论核心理论框架。
+本仓库包含固定4维拓扑和动态谱维的统一场理论总纲框架。
 
 ## 仓库结构
 
@@ -43,4 +43,4 @@
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [Core-Theory](https://github.com/dpsnet/Core-Theory)
+**项目主页**: [Master-Outline](https://github.com/dpsnet/Master-Outline)

@@ -41,7 +41,7 @@ This work is licensed under the **Creative Commons Attribution 4.0 International
 
 **Author**: Wang Bin  
 **Email**: wang.bin@foxmail.com  
-**Project Homepage**: [Core-Theory](https://github.com/dpsnet/Core-Theory)
+**Project Homepage**: [Master-Outline](https://github.com/dpsnet/Master-Outline)
 
 ---
 

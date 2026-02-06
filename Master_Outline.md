@@ -67,6 +67,10 @@ Fractal Clifford algebra; Fixed 4D topology; Dynamic spectral dimension; Multipl
     - [9.2 Comparison with Mainstream Theories](#92-comparison-with-mainstream-theories)
   - [10 Conclusions and Outlook](#10-conclusions-and-outlook)
   - [Version History](#version-history)
+  - [版权声明](#版权声明)
+    - [您可以自由地：](#您可以自由地)
+    - [惟须遵守下列条件：](#惟须遵守下列条件)
+    - [相关链接：](#相关链接)
 
 ## 1 Introduction: Dilemma and Outlet of Quantum Gravity
 
@@ -894,4 +898,4 @@ This series of papers provides new ideas and methods for quantum gravity researc
 
 **作者**: 王斌  
 **邮箱**: wang.bin@foxmail.com  
-**项目主页**: [Core-Theory](https://github.com/dpsnet/Core-Theory)
+**项目主页**: [Master-Outline](https://github.com/dpsnet/Master-Outline)
